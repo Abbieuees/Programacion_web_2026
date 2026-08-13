@@ -23,7 +23,7 @@
 
 ## 1. Resumen Ejecutivo (Propuesta de Rediseño)
 
-Escribe aquí de forma clara y directa de qué trata tu propuesta de rediseño. Recuerda que no lleva códigos raros, solo texto normal. 
+Nuestra propuesta de Rediseño se basa en identificar el problema, proponer una solución y obtener beneficios para el desarrollo de nuestro proyecto. 
 
 * **Problema detectado:** Explica brevemente qué estaba fallando o qué se podía mejorar en el diseño original.
 * **Solución propuesta:** Describe los cambios principales que hicieron y por qué esta nueva versión es mucho mejor.
