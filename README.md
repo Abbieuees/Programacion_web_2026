@@ -7,7 +7,7 @@
   # CARÁTULA INSTITUCIONAL
 
   ## **Asignatura:** Programación web 
-  ### **Docente:** Ricardo 
+  ### **Docente:** Ricardo Ernesto Alvarado Martinez 
 
   ---
 
