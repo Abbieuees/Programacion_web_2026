@@ -6,8 +6,8 @@
 
   # CARÁTULA INSTITUCIONAL
 
-  ## **Asignatura:** [Nombre de la Materia / Asignatura]
-  ### **Docente:** [Nombre del Profesor/a]
+  ## **Asignatura:** Programación web 
+  ### **Docente:** Ricardo 
 
   ---
 
