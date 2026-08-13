@@ -11,7 +11,7 @@
 
   ---
 
-  ### 👥 INTEGRANTES DEL EQUIPO
+  ### INTEGRANTES DEL EQUIPO
 
   | Nombre Completo | CIF |
   | :--- | :---: |
