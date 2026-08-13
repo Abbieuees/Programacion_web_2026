@@ -4,7 +4,7 @@
   <!-- Reemplaza esta URL por el logo de tu institución o proyecto -->
   <img src="https://placeholder.com" alt="Logo Institucional" width="120" height="120">
 
-  # 🏛️ CARÁTULA INSTITUCIONAL
+  # CARÁTULA INSTITUCIONAL
 
   ## **Asignatura:** [Nombre de la Materia / Asignatura]
   ### **Docente:** [Nombre del Profesor/a]
@@ -23,7 +23,7 @@
   ---
 </div>
 
-## 📑 1. Resumen Ejecutivo (Propuesta de Rediseño)
+## 1. Resumen Ejecutivo (Propuesta de Rediseño)
 
 Escribe aquí de forma clara y directa de qué trata tu propuesta de rediseño. Recuerda que no lleva códigos raros, solo texto normal. 
 
@@ -33,7 +33,7 @@ Escribe aquí de forma clara y directa de qué trata tu propuesta de rediseño. 
 
 ---
 
-## 🚀 2. Instrucciones de Visualización y Ejecución
+## 2. Instrucciones de Visualización y Ejecución
 
 Guía paso a paso para que el docente o cualquier persona pueda abrir y probar tu proyecto.
 
@@ -55,20 +55,18 @@ Guía paso a paso para que el docente o cualquier persona pueda abrir y probar t
 
 ---
 
-## 📈 3. Historial de Commits Significativos
+## 3. Historial de Commits Significativos
 
 A continuación se detallan los aportes y cambios más importantes registrados en el sistema de control de versiones por cada miembro del equipo.
 
-### 👤 [Nombre del Integrante 1]
+### [Abbie Elena Córdova Cortez]
 * **`feat: estructura inicial`** - Creó la base del proyecto y las carpetas principales.
 * **`style: rediseño de carátula`** - Aplicó los nuevos estilos visuales a la portada.
 
-### 👤 [Nombre del Integrante 2]
+### [Edgar Josué Hernández González]
 * **`fix: error de alineación`** - Corrigió un problema donde el logo se movía en pantallas móviles.
 * **`docs: actualización de manual`** - Redactó los pasos de ejecución del sistema.
 
-### 👤 [Nombre del Integrante 3]
+### [Jacqueline Alicia Bolaños Ramos]
 * **`feat: menú de navegación`** - Implementó el nuevo menú interactivo del rediseño.
 
-### 👤 [Nombre del Integrante 4]
-* **`test: pruebas de usuario`** - Verificó que todos los botones y enlaces funcionaran correctamente.
