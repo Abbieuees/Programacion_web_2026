@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Reemplaza esta URL por el logo de tu institución o proyecto -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Universidad_Evang%C3%A9lica_de_El_Salvador.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" alt="Logo Institucional" width="120" height="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Universidad_Evang%C3%A9lica_de_El_Salvador.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" alt="Logo Institucional" width="130" height="120">
 
   # CARÁTULA INSTITUCIONAL
 
