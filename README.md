@@ -15,11 +15,9 @@
 
   | Nombre Completo | Carnet / Código |
   | :--- | :---: |
-  | [Nombre del Integrante 1] | `[Carnet-1]` |
-  | [Nombre del Integrante 2] | `[Carnet-2]` |
-  | [Nombre del Integrante 3] | `[Carnet-3]` |
-  | [Nombre del Integrante 4] | `[Carnet-4]` |
-
+  | Abbie Elena Córdova Cortez | `[Carnet-2025010212]` |
+  | Edgar Josué Hernández González | `[Carnet-2]` |
+  | Jacqueline Alicia Bolaños Ramos | `[Carnet-3]` |
   ---
 </div>
 
@@ -59,14 +57,14 @@ Guía paso a paso para que el docente o cualquier persona pueda abrir y probar t
 
 A continuación se detallan los aportes y cambios más importantes registrados en el sistema de control de versiones por cada miembro del equipo.
 
-### [Abbie Elena Córdova Cortez]
+### Abbie Elena Córdova Cortez
 * **`feat: estructura inicial`** - Creó la base del proyecto y las carpetas principales.
 * **`style: rediseño de carátula`** - Aplicó los nuevos estilos visuales a la portada.
 
-### [Edgar Josué Hernández González]
+### Edgar Josué Hernández González
 * **`fix: error de alineación`** - Corrigió un problema donde el logo se movía en pantallas móviles.
 * **`docs: actualización de manual`** - Redactó los pasos de ejecución del sistema.
 
-### [Jacqueline Alicia Bolaños Ramos]
+### Jacqueline Alicia Bolaños Ramos
 * **`feat: menú de navegación`** - Implementó el nuevo menú interactivo del rediseño.
 
