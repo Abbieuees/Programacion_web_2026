@@ -41,7 +41,7 @@ Guía paso a paso para que el docente o cualquier persona pueda abrir y probar t
 ### Pasos para la Ejecución
 1. **Descargar el proyecto:** Clona el repositorio o descarga la carpeta en tu computadora.
    ```bash
-   git clone [URL_DE_TU_REPOSITORIO]
+   git clone [https://github.com/Abbieuees/proyecto-portal-docente-uees]
    ```
 2. **Entrar a la carpeta:**
    ```bash
