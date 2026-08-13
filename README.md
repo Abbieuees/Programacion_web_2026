@@ -8,6 +8,7 @@
 
   ## **Asignatura:** Programación web 
   ### **Docente:** Ricardo Ernesto Alvarado Martinez 
+  ### **Ciclo:** 02-2026
 
   ---
 
