@@ -1,24 +1,74 @@
-#Caratura institucional
 
-##**Nombre de la asignatura:**
-##**Docente:** 
 
-##Integrantes del equipo
+<div align="center">
+  <!-- Reemplaza esta URL por el logo de tu institución o proyecto -->
+  <img src="https://placeholder.com" alt="Logo Institucional" width="120" height="120">
 
-Abbie Elena Cordova Cortez | CIF: 2025010212
-Jacqueline Alicia Bolaños Ramos | CIF:
-Edgar Josue Gonzalez Hernandez | CIF: 
+  # 🏛️ CARÁTULA INSTITUCIONAL
 
-##Resumen ejecutivo
+  ## **Asignatura:** [Nombre de la Materia / Asignatura]
+  ### **Docente:** [Nombre del Profesor/a]
 
-**Problema detectado:**
-**Solucion propuesta:**
-**Beneficios clave:**
+  ---
 
-##Instruciones de visualizacion
+  ### 👥 INTEGRANTES DEL EQUIPO
 
-###Requisitos previos
+  | Nombre Completo | Carnet / Código |
+  | :--- | :---: |
+  | [Nombre del Integrante 1] | `[Carnet-1]` |
+  | [Nombre del Integrante 2] | `[Carnet-2]` |
+  | [Nombre del Integrante 3] | `[Carnet-3]` |
+  | [Nombre del Integrante 4] | `[Carnet-4]` |
 
-###Pasos para ejecucion
+  ---
+</div>
 
-##Historial de commits
+## 📑 1. Resumen Ejecutivo (Propuesta de Rediseño)
+
+Escribe aquí de forma clara y directa de qué trata tu propuesta de rediseño. Recuerda que no lleva códigos raros, solo texto normal. 
+
+* **Problema detectado:** Explica brevemente qué estaba fallando o qué se podía mejorar en el diseño original.
+* **Solución propuesta:** Describe los cambios principales que hicieron y por qué esta nueva versión es mucho mejor.
+* **Beneficios clave:** Qué se logra con este rediseño (mayor rapidez, mejor orden visual, más facilidad de uso, etc.).
+
+---
+
+## 🚀 2. Instrucciones de Visualización y Ejecución
+
+Guía paso a paso para que el docente o cualquier persona pueda abrir y probar tu proyecto.
+
+### Requisitos Previos
+* Necesitas tener instalado [indica si se necesita algún programa, ej: Node.js, Python, o un navegador web actualizado].
+
+### Pasos para la Ejecución
+1. **Descargar el proyecto:** Clona el repositorio o descarga la carpeta en tu computadora.
+   ```bash
+   git clone [URL_DE_TU_REPOSITORIO]
+   ```
+2. **Entrar a la carpeta:**
+   ```bash
+   cd [nombre-de-la-carpeta]
+   ```
+3. **Ejecutar o Visualizar:** 
+   * [Opción A]: Abre el archivo `index.html` en cualquier navegador web haciendo doble clic sobre él.
+   * [Opción B]: Corre el comando `[ej: npm start / python main.py]` en tu terminal.
+
+---
+
+## 📈 3. Historial de Commits Significativos
+
+A continuación se detallan los aportes y cambios más importantes registrados en el sistema de control de versiones por cada miembro del equipo.
+
+### 👤 [Nombre del Integrante 1]
+* **`feat: estructura inicial`** - Creó la base del proyecto y las carpetas principales.
+* **`style: rediseño de carátula`** - Aplicó los nuevos estilos visuales a la portada.
+
+### 👤 [Nombre del Integrante 2]
+* **`fix: error de alineación`** - Corrigió un problema donde el logo se movía en pantallas móviles.
+* **`docs: actualización de manual`** - Redactó los pasos de ejecución del sistema.
+
+### 👤 [Nombre del Integrante 3]
+* **`feat: menú de navegación`** - Implementó el nuevo menú interactivo del rediseño.
+
+### 👤 [Nombre del Integrante 4]
+* **`test: pruebas de usuario`** - Verificó que todos los botones y enlaces funcionaran correctamente.
