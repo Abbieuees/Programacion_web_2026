@@ -17,8 +17,8 @@
   | Nombre Completo | CIF |
   | :--- | :---: |
   | Abbie Elena Córdova Cortez | `2025010212` |
-  | Edgar Josué Hernández González | `Carnet-2` |
-  | Jacqueline Alicia Bolaños Ramos | `Carnet-3` |
+  | Edgar Josué Hernández González | `2025011349` |
+  | Jacqueline Alicia Bolaños Ramos | `2025011349` |
   ---
 </div>
 
