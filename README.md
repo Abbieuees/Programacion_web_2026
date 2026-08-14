@@ -18,7 +18,7 @@
   | :--- | :---: |
   | Abbie Elena Córdova Cortez | `2025010212` |
   | Edgar Josué Hernández González | `2025011349` |
-  | Jacqueline Alicia Bolaños Ramos | `2025011349` |
+  | Jacqueline Alicia Bolaños Ramos | `2025010375` |
   ---
 </div>
 
