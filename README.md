@@ -27,7 +27,7 @@
 Nuestra propuesta de Rediseño se basa en identificar el problema, proponer una solución y obtener beneficios para el desarrollo de nuestro proyecto. 
 
 * **Problema detectado:** El diseño presenta muchos puntos de mejora, principalmente en cuestión de color y contraste en el cual no se cumple lo exigido por WCAG AA y así mismo el diseño está visualmente saturado por la cantidad de elementos agrupados en su mayoría al lado izquierdo del portal actual, como también las variaciones entre tipografías y sus tamaños se vuelven ilegibles y no presentan ninguna jerarquía.
-* **Solución propuesta:** Describe los cambios principales que hicieron y por qué esta nueva versión es mucho mejor.
+* **Solución propuesta:** Empezamos con  la creación de una paleta de colores basada en la identidad coorporativa de la Universidad que cumple con lo exigido por WCAG AA, luego implementamos un diseño de vistas donde se cumpla un diseño atractivo, limpio y que no está saturado o sobre cargado de elementos.
 * **Beneficios clave:** Con este rediseño logramos mayor rapidez, mejor orden visual, facilidad de uso, responsividad.
 
 ---
